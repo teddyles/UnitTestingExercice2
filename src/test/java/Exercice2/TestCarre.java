@@ -4,3 +4,4 @@ public class TestCarre {
         Carre monCarre = new Carre(4.0);
         monCarre.afficher();
     }
+}
