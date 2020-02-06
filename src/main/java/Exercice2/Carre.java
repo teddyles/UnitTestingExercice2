@@ -14,5 +14,3 @@ public class Carre {
     public void afficher () {
         System.out.println("La surface du carre est : " + this.surface());
     }
-}
-}
